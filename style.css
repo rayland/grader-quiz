@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+    display: flex;
+    margin: 0;
+  }
+
+html {
+    background-image: url(images/m90-03.png);
+    background-color: whitesmoke;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html, button {
+    font-family: Roboto Slab, sans-serif;
+}
+
+button {
+    margin: 10px 5px 0 5px;
+    font-weight: bold;
+    padding: 2px 8px 2px 8px;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+button:disabled {
+    background-color: lightgray !important;
+    color: darkgrey !important;
+}
+
+#quiz {
+    margin: auto;
+    width: 500px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#nav, #response {
+    margin-top: 30px;
+}
+
+#nav button {
+    background-color: darkolivegreen;
+    color: white;
+}
+
+#feedback-1 {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#feedback-container {
+    display:inline-block;
+    min-height: 75px ;
+}
+
+/* #feedback-container {
+    margin: auto;
+    width: 500px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+} */
+
+.correct {
+    color: forestgreen;
+}
+
+.incorrect {
+    color: red;
+}
+
+.visble {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+#question-counter {
+    float: left;
+}
+
+#next-btn {
+    float: right;
+}

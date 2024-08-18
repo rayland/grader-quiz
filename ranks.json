@@ -1,0 +1,125 @@
+{
+    "uniform": "Fältuniform",
+    "ranks": [
+      {
+          "rankName": "Menig", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "00-menig.png"
+      },
+      {
+          "rankName": "Menig 1", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "01-menig-1.png"
+      },
+      {
+          "rankName": "Menig 2", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "02-menig-2.png"
+      },
+      {
+          "rankName": "Menig 3", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "03-menig-3.png"
+      },
+      {
+          "rankName": "Menig 4", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "04-menig-4.png"
+      },
+      {
+          "rankName": "Vicekorpral", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "05-vicekorpral.png"
+      },
+      {
+          "rankName": "Korpral", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "06-korpral.png"
+      },
+      {
+          "rankName": "Furir", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "07-furir.png"
+      },
+      {
+          "rankName": "Överfurir", 
+          "category": "Gruppbefäl Soldater Sjömän",
+          "image": "08-overfurir.png"
+      },
+      {
+          "rankName": "Sergeant", 
+          "category": "Specialistofficerare",
+          "image": "09-sergeant.png"
+      },
+      {
+        "rankName": "Översergeant", 
+        "category": "Specialistofficerare",
+        "image": "10-oversergeant.png"
+    },
+    {
+        "rankName": "Fanjunkare", 
+        "category": "Specialistofficerare",
+        "image": "11-fanjunkare.png"
+    },
+    {
+        "rankName": "Förvaltare", 
+        "category": "Specialistofficerare",
+        "image": "12-forvaltare.png"
+    },
+    {
+        "rankName": "Flottlj- / Regementsförvaltare", 
+        "category": "Specialistofficerare",
+        "image": "13-flottiljregementsforvaltare.png"
+    },
+    {
+        "rankName": "Fänrik", 
+        "category": "Officerare",
+        "image": "14-fanrik.png"
+    },
+    {
+        "rankName": "Löjtnant", 
+        "category": "Officerare",
+        "image": "15-lojtnant.png"
+    },
+    {
+        "rankName": "Kapten", 
+        "category": "Officerare",
+        "image": "16-kapten.png"
+    },
+    {
+        "rankName": "Major", 
+        "category": "Officerare",
+        "image": "17-major.png"
+    },
+    {
+        "rankName": "Överstelöjtnant", 
+        "category": "Officerare",
+        "image": "18-overstelojtnant.png"
+    },
+    {
+        "rankName": "Överste", 
+        "category": "Officerare",
+        "image": "19-overste.png"
+    },
+    {
+        "rankName": "Brigadgeneral", 
+        "category": "Officerare",
+        "image": "20-brigadgeneral.png"
+    },
+    {
+        "rankName": "Generalmajor", 
+        "category": "Officerare",
+        "image": "21-generalmajor.png"
+    },
+    {
+        "rankName": "Generallöjtnant", 
+        "category": "Officerare",
+        "image": "22-generallojtnant.png"
+    },
+    {
+        "rankName": "General", 
+        "category": "Officerare",
+        "image": "23-general.png"
+    }
+    ]
+  }  

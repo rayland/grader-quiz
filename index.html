@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz: Svenska Militära Grader</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="quiz">
+        <h1 id="title"></h1>
+        <div id="question"></div>
+        <div id="choices" class="hidden"></div>
+        <div id="feedback-container">
+            <p id="feedback-1"></p>
+            <p id="feedback-2"></p>
+        </div>
+        <nav id="nav">
+            <p id="question-counter" class="hidden">Fråga: <span id="current-question">0</span>/<span id="total-questions">0</span></p>
+        </nav>
+    </div> 
+
+        
+
+    <script type="module" src="ranks.js"></script>
+</body>
+</html>
